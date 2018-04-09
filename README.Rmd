@@ -1,0 +1,19 @@
+---
+title: "README"
+author: "Tommaso Maschera"
+date: "9 April 2018"
+output: html_document
+---
+
+In this repo you will find the documents submitted in fulfillment of the final project requirements for the *Getting and cleaning data* course by *Johns' Hopkins University*.
+
+The repo contains the following:
+
+1. A *README.md* file (which you are reading)
+2. An R script (*run_analysis.R*)
+3. A codebook (*codebook.Rmd*)
+4. A directory with all the relevant data (*/Data*), containing:
+        A zipped file (*dataset.zip*)
+        The unzipped folder with all the relevant data (*UCI HAR Dataset*)
+        
+For result replicability, run the R script. Data will be downloaded and analyzed automatically. To follow along and interpret result, please refer to the codebook.
